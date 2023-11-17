@@ -1,2 +1,2 @@
-# curriculo
+# Currículo
 curriculo em html
